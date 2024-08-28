@@ -1,5 +1,7 @@
 # MLOps Framework for Dynamic Dataset Selection using Semantic Search and LLM
 
+![image](https://github.com/user-attachments/assets/514b382d-1b0b-4027-880c-d07b658bd1ff)
+
 ## Overview
 
 This project provides an MLOps framework for dynamically selecting datasets to augment Large Language Models (LLM) using semantic search techniques. The framework supports both API-based and local model approaches, allowing for flexible deployment in cloud, hybrid, or local environments.
